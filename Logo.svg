@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="500" viewBox="0 0 500 500">
+  <g id="Gruppe_18" data-name="Gruppe 18" transform="translate(-1052 -571)">
+    <g id="Gruppe_2" data-name="Gruppe 2" transform="translate(1052 571)">
+      <path id="Differenzmenge_7" data-name="Differenzmenge 7" d="M0,500H0V0L250.258,250,0,500Z" transform="translate(500 500) rotate(180)" fill="#fe4180"/>
+      <path id="Vereinigungsmenge_11" data-name="Vereinigungsmenge 11" d="M0,500V0L500,500Z" transform="translate(0 0)" fill="#ffcd00"/>
+      <path id="Schnittmenge_5" data-name="Schnittmenge 5" d="M0,172.847A243.534,243.534,0,0,1,71.655,0L232.663,161.051,60.253,333.507A243.361,243.361,0,0,1,0,172.847Z" transform="translate(17.591 88.911)" fill="#85c130"/>
+      <path id="Differenzmenge_12" data-name="Differenzmenge 12" d="M250,250.338h0L0,0H500L250,250.337Z" transform="translate(0 0)" fill="#0c6bf9"/>
+    </g>
+    <g id="Gruppe_1" data-name="Gruppe 1" transform="translate(1092.832 784.639)">
+      <rect id="Rechteck_14" data-name="Rechteck 14" width="71.828" height="71.828" transform="translate(314.762 178.875)" fill="#fff"/>
+      <path id="Vereinigungsmenge_15" data-name="Vereinigungsmenge 15" d="M208.259,250.7V110.154L140.036,206.1V99.648L208.259,0h71.814V250.7ZM0,250.7V0H71.814V250.7Zm71.814-140.55V0l68.223,99.648V206.1Z" transform="translate(0 0)" fill="#fff"/>
+    </g>
+  </g>
+</svg>
